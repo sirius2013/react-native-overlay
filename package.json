@@ -1,5 +1,5 @@
 {
-  "name": "react-native-overlay1",
+  "name": "react-native-overlay12",
   "version": "0.3.0",
   "description": "An <Overlay /> component that brings content inside to the front of the view regardless of its current position in the component tree.",
   "main": "Overlay.ios.js",
